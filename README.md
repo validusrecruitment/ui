@@ -10,10 +10,10 @@ To stop service:
     $ CTRL-C
     $ docker-compose down
 
-NOTE: the music-service has 3 endpoints:
-/albums
-/artists
-/songs
+NOTE: the music-service has 3 endpoints and runs on port 5000:
+http://localhost:5000/albums
+http://localhost:5000/artists
+http://localhost:5000/songs
 
 Each of these endpoints supports pagination, sorting and filtering
 
