@@ -1,4 +1,6 @@
 # ui
+This repo contains the music-service and the UI Test.docx file with instructions on what needs to be done.  The information below describes how to get the music-service running.
+
 1) Clone this repo.
 2) start the server:
     $ cd service
