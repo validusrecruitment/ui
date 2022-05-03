@@ -5,6 +5,7 @@ This repo contains the music-service and the UI Test.docx file with instructions
 - Docker Desktop
 - VSCode or similar Text Editor
 
+# Instructions
 1) Clone this repo.
 2) start the server:
     $ cd service
