@@ -1,9 +1,9 @@
 # ui
 This repo contains the music-service and the UI Test.docx file with instructions on what needs to be done.  The information below describes how to get the music-service running.
 
-#Dependencies
--Docker Desktop
--VSCode or similar Text Editor
+# Dependencies
+- Docker Desktop
+- VSCode or similar Text Editor
 
 1) Clone this repo.
 2) start the server:
