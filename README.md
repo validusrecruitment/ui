@@ -1,9 +1,29 @@
-# ui
+# :rocket: Challenge - Validus Music Database 
 This repo contains the music-service and the UI Test.docx file with instructions on what needs to be done.  The information below describes how to get the music-service running.
+
+:stopwatch: ***This challenge should take no more than 4 hours to complete.***
+
+:exploding_head: Try to keep it simple, don't make it complex in terms of interface and design
 
 # Dependencies
 - Docker Desktop
 - VSCode or similar Text Editor
+
+# Preferred Stack and Design Patterns
+- ***In case of Angular 9+***
+    - TypeScript / ECMAScript 6+
+    - RXJS Observables 
+    - MVVM Architecture 
+    - Karma Testing
+    - Angular Routing
+
+- ***In case of Vue***
+    - TypeScript / ECMAScript 6+
+    - Vuex State Management
+    - MVVM Architecture 
+    - Vitest / Cypress for testing
+    - Vue.js Router
+
 
 # Instructions
 1) Clone this repo.
