@@ -19,7 +19,7 @@ This repo contains the music-service and the UI Test.docx file with instructions
 
 - ***In case of Vue***
     - TypeScript / ECMAScript 6+
-    - Vuex State Management
+    - Pinia State Management (Redux)
     - MVVM Architecture 
     - Vitest / Cypress for testing
     - Vue.js Router
