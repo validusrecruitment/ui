@@ -1,7 +1,7 @@
 # :rocket: Challenge - Validus Music Database 
 This repo contains the music-service and the UI Test.docx file with instructions on what needs to be done.  The information below describes how to get the music-service running.
 
-:stopwatch: ***This challenge should take no more than 4 hours to complete.***
+:stopwatch: ***This challenge should take no more than 1 hour to complete.***
 
 :exploding_head: Try to keep it simple, don't make it complex in terms of interface and design
 
